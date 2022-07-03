@@ -10,3 +10,5 @@ A couple of improvements to be made to the code include:
 * Alter CustomerDiscount code to include percentages when applying discount, rather than a set amount that changes on click.
 
 A key element of this project for me personally, was to keep the code clean and adhere to the pillars of OOP.
+
+- UML diagrams have been included to show how the project started.
